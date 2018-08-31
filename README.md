@@ -63,25 +63,24 @@ With the following software and hardware list you can run all code files present
 
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](Graphics Bundle Link).
 
-## Code in Action
-
-Click on the following link to see the Code in Action:
-
-[Placeholder link](www.youtube.com/URL)
-
 ### Related products <Other books you may enjoy>
-* Linux: Powerful Server Administration [[Packt]](https://www.packtpub.com/networking-and-servers/linux-powerful-server-administration?utm_source=github&utm_medium=repository&utm_campaign=9781788293778) [[Amazon]](https://www.amazon.com/dp/1788293770)
+* Unity 2018 By Example - Second Edition [[Packt]](https://www.packtpub.com/game-development/unity-2018-example-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781788398701) [[Amazon]](https://www.amazon.com/dp/178839870X)
 
-* Linux Device Drivers Development [[Packt]](https://www.packtpub.com/networking-and-servers/linux-device-drivers-development?utm_source=github&utm_medium=repository&utm_campaign=9781785280009) [[Amazon]](https://www.amazon.com/dp/1788293770)
+* Unity 2018 Augmented Reality Projects [[Packt]](https://www.packtpub.com/game-development/unity-2018-augmented-reality-projects?utm_source=github&utm_medium=repository&utm_campaign=9781788838764) [[Amazon]](https://www.amazon.com/dp/1788838769)
 
-## Get to Know the Author(s)
-**Author Name**
-Bio
+## Get to Know the Author
+**Matt Smith**
+Matt Smith is a computing academic at what will soon become the Technological University of Dublin, Ireland.
+
+Matt started computer programming on a brand new ZX80 and submitted 2 games for his computing O-level exam. After nearly 10 years as a full-time student on a succession of scholarships, he gained several degrees in computing, including a PhD in computational musicology.
+
+In 1985 Matt wrote the lyrics, and was in the band (and sang, sorry about that by the way) whose music appeared on the B-side of the audio cassette carrying the computer game Confuzion. Matt is a documentation author for the open source Fungus Unity project.
+
+With his children he studies and teaches Taekwon-Do, and all three of them are beginning guitar lessons in 2018.
 
 
 
-
-## Other books by the authors
+## Other books by the author
 * [Mastering Linux Network Administration](https://www.packtpub.com/networking-and-servers/mastering-linux-network-administration?utm_source=github&utm_medium=repository&utm_campaign=9781784399597)
 * [Linux Mint Essentials](https://www.packtpub.com/networking-and-servers/linux-mint-essentials?utm_source=github&utm_medium=repository&utm_campaign=9781782168157)
 
