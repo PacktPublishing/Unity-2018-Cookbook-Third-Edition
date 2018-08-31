@@ -6,33 +6,43 @@ Unity 2018 Cookbook, Second Edition, published by Packt
 
 This is the code repository for [Book Name](Packt UTM URL of the Book), published by Packt.
 
-**Subtitle from EPIC**
+**Over 160 recipes to take your 2D and 3D game and virtual reality development to the next level**
 
 ## What is this book about?
 First Paragraph from the Long Description
+With the help of the Unity 2018 Cookbook, you’ll discover how to make the most of the UI system, learn to work with external resources and files, and understand how to animate both 2D and 3D characters and game scene objects using Unity's Mecanim animation toolsets.
 
 This book covers the following exciting features: <First 5 What you'll learn points>
-* Learn how to manage users, groups, and permissions
-* Encrypt and decrypt disks with Linux Unified Key Setup /Luks
-* Setup SSH for remote access, and connect it to other nodes
-* Understand how to add, remove, and search for packages
-* Use NFS and Samba to share directories with other users
+* Get creative with Unity’s shaders and learn to build your own shaders with the new Shader Graph tool
+* Create a text and image character dialog with the free Fungus Unity plugin
+* Explore new features integrated into Unity 2018, including TextMesh Pro and ProBuilder
+* Master Unity audio, including ducking, reverbing, and matching pitch to animation speeds
+* Work with the new Cinemachine and timeline to intelligently control camera movements
 
-If you feel this book is for you, get your [copy](https://www.amazon.com/dp/10DigitISBN) today!
+If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1788471903) today!
 
 <a href="https://www.packtpub.com/?utm_source=github&utm_medium=banner&utm_campaign=GitHubBanner"><img src="https://raw.githubusercontent.com/PacktPublishing/GitHub/master/GitHub.png" 
 alt="https://www.packtpub.com/" border="5" /></a>
 
 
 ## Instructions and Navigations
-All of the code is organized into folders. For example, Chapter02.
+All of the code is organized into folders. For example, Chapter01.
 
 The code will look like the following:
 ```
-if (test expression)
-{
-  Statement upon condition is true
-}
+using UnityEngine; 
+using System.Collections; 
+
+public class ScrollZ : MonoBehaviour { 
+  public float scrollSpeed = 20; 
+
+  void Update () { 
+    Vector3 pos = transform.position; 
+    Vector3 localVectorUp = transform.TransformDirection(0,1,0); 
+    pos += localVectorUp * scrollSpeed * Time.deltaTime; 
+    transform.position = pos; 
+  } 
+} 
 ```
 
 **Following is what you need for this book:**
@@ -44,21 +54,11 @@ With the following software and hardware list you can run all code files present
 
 | Chapter  | Software required                   | OS required                        |
 | -------- | ------------------------------------| -----------------------------------|
-| 1        | R version 3.3.0                     | Windows, Mac OS X, and Linux (Any) |
-| 2        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 3        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 4        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 5        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 6        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 7        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 8        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 9        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 10        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 11        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 12        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 13        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 14        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 15        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
+| 1-4,6-19 | Unity 2018.1 or later               | Windows, Mac OS X, and Linux (Any) |
+| 5        | Unity 2018.1 or lagter +            |                                    |
+|          | an image editing application        |                                    |
+|          | such as GIMP                        | Windows, Mac OS X, and Linux (Any) |
+
 
 
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](Graphics Bundle Link).
@@ -78,8 +78,7 @@ Click on the following link to see the Code in Action:
 **Author Name**
 Bio
 
-**Author Name**
-Bio
+
 
 
 ## Other books by the authors
