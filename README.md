@@ -70,7 +70,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 
 ## Get to Know the Author
 **Matt Smith**
-Matt Smith is a computing academic at what will soon become the Technological University of Dublin, Ireland.
+is a computing academic at what will soon become the Technological University of Dublin, Ireland.
 
 Matt started computer programming on a brand new ZX80 and submitted 2 games for his computing O-level exam. After nearly 10 years as a full-time student on a succession of scholarships, he gained several degrees in computing, including a PhD in computational musicology.
 
