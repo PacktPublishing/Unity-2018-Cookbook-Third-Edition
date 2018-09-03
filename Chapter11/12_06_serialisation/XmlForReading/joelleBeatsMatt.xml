@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<PlayerScoreCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PlayerScores>
+    <PlayerScore>
+      <Name>matt</Name>
+      <Score>202</Score>
+      <Version>v1.0</Version>
+    </PlayerScore>
+    <PlayerScore>
+      <Name>joelle</Name>
+      <Score>900</Score>
+      <Version>v2.5</Version>
+    </PlayerScore>
+  </PlayerScores>
+</PlayerScoreCollection>
