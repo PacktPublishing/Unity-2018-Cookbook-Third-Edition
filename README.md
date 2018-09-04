@@ -2,7 +2,7 @@
 Unity 2018 Cookbook, Third Edition, published by Packt
 # Book Name
 
-<a href="Packt UTM URL of the Book"><img src="Cover Image URL of the Book" alt="Book Name" height="256px" align="right"></a>
+<a href="Packt UTM URL of the Book"><img src="https://www.packtpub.com/sites/default/files/9781788471909.png" alt="Unity 2018 Cookbook" height="256px" align="right"></a>
 
 This is the code repository for [Unity 2018 Cookbook](https://www.packtpub.com/game-development/unity-2018-cookbook-third-edition), published by Packt.
 
@@ -53,10 +53,10 @@ With the following software and hardware list you can run all code files present
 
 | Chapter  | Software required                   | OS required                        |
 | -------- | ------------------------------------| -----------------------------------|
-| 1-4,6-19 | Unity 2018.1 or later               | Windows, Mac OS X, and Linux (Any) |
+| 1-4,6-19 | Unity 2018.1 or later               | Windows, Mac OS X (Any) |
 | 5        | Unity 2018.1 or lagter +            |                                    |
 |          | an image editing application        |                                    |
-|          | such as GIMP                        | Windows, Mac OS X, and Linux (Any) |
+|          | such as GIMP                        | Windows, Mac OS X (Any) |
 
 
 
