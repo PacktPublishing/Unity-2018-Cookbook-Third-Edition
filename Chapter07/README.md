@@ -1,22 +1,30 @@
-# unity-cookbook-2018-ch07
-Unity Cookbook 2018 - Chapter 7 - Lights and Effects
+# unity-cookbook-2018-ch06
+Chapter 6 - Using Cameras
 
-The **completed** Unity projects for each example can be found in their own repos as follows:
 
-- https://github.com/dr-matt-smith/unity-cookbook-2018-ch07-01-cookie-cloud-shadows
+Assets for cookbook 2018 - chapter 6
 
-- https://github.com/dr-matt-smith/unity-cookbook-2018-ch07-02-spotlight-cookie
+The completed Unity projects for each example can be found in their own repos as follows:
 
-- https://github.com/dr-matt-smith/unity-cookbook-2018-ch07-03-reflection-map
+- https://github.com/dr-matt-smith/unity-cookbook-2018-ch06-01-picture-in-picture
 
-- https://github.com/dr-matt-smith/unity-cookbook-2018-ch07-04-projector-laser-target
+- https://github.com/dr-matt-smith/unity-cookbook-2018-ch06-02-picture-in-picture
 
-- https://github.com/dr-matt-smith/unity-cookbook-2018-ch07-05-laser-beam-line-renderer
+- https://github.com/dr-matt-smith/unity-cookbook-2018-ch06-03-swtich-between-cameras
 
-- https://github.com/dr-matt-smith/unity-cookbook-2018-ch07-06-procedural-skybox
+- https://github.com/dr-matt-smith/unity-cookbook-2018-ch06-04-saving-camera-output-as-texture
 
-- https://github.com/dr-matt-smith/unity-cookbook-2018-ch07-07-reflection-probes
+- https://github.com/dr-matt-smith/unity-cookbook-2018-ch06-05-zooming-with-effects
+- https://github.com/dr-matt-smith/unity-cookbook-2018-ch06-05b-zooming-vignette-effect
+- https://github.com/dr-matt-smith/unity-cookbook-2018-ch06-05c-post-processing-v2
 
-- https://github.com/dr-matt-smith/unity-cookbook-2018-ch07-08-emission-lamp
+- https://github.com/dr-matt-smith/unity-cookbook-2018-ch06-06-minimap
 
-- https://github.com/dr-matt-smith/unity-cookbook-2018-ch07-09-lightmaps-lightprobes
+- https://github.com/dr-matt-smith/unity-cookbook-2018-ch06-07-cctv-surveillance
+- https://github.com/dr-matt-smith/unity-cookbook-2018-ch06-07b-cctv-post-processing
+
+- https://github.com/dr-matt-smith/unity-cookbook-2018-ch06-08-multipurpose-camera-rig
+
+- https://github.com/dr-matt-smith/unity-cookbook-2018-ch06-09-cinemachine-clearshot
+
+- https://github.com/dr-matt-smith/unity-cookbook-2018-ch06-10-cinemachine-freelook

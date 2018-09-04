@@ -1,29 +1,15 @@
-# unity-cookbook-2018-ch16
-Assets and codes for Chapter 16 - Virtual Reality and Extra Features
+# unity-cookbook-2018-ch10
+Assets and codes for Chapter 10 - Working with External Resource Files and Devices
 
 The **completed** Unity projects for each example can be found in their own repos as follows:
 
-1. https://github.com/dr-matt-smith/unity-cookbook-2018-ch16-01-saving-screenshots
+- https://github.com/dr-matt-smith/unity-cookbook-2018-ch10-01-default-resources
 
-1. https://github.com/dr-matt-smith/unity-cookbook-2018-ch16-02-saving-using-static-properties
+- https://github.com/dr-matt-smith/unity-cookbook-2018-ch10-02-download-from-internet
 
-1. https://github.com/dr-matt-smith/unity-cookbook-2018-ch16-03-saving-using-playerprefs
+- https://github.com/dr-matt-smith/unity-cookbook-2018-ch10-03-manually-store-in-resources
 
-1. https://github.com/dr-matt-smith/unity-cookbook-2018-ch16-04-load-level-data
+- https://github.com/dr-matt-smith/unity-cookbook-2018-ch10-06-save-asset-bundles
 
-1. https://github.com/dr-matt-smith/unity-cookbook-2018-ch16-05-quality-ui-slider
-
-1. https://github.com/dr-matt-smith/unity-cookbook-2018-ch16-06-pause-game
-
-1. https://github.com/dr-matt-smith/unity-cookbook-2018-ch16-07-slow-motion
-
-1. https://github.com/dr-matt-smith/unity-cookbook-2018-ch16-08-gizmo-selected
-
-1. https://github.com/dr-matt-smith/unity-cookbook-2018-ch16-09-gizmo-grid-snap
-
-1. https://github.com/dr-matt-smith/unity-cookbook-2018-ch16-10-vr-basic-scene
-
-1. https://github.com/dr-matt-smith/unity-cookbook-2018-ch16-11-vr-360-video
-
-1. https://github.com/dr-matt-smith/unity-cookbook-2018-ch16-12-xr-editor
+- https://github.com/dr-matt-smith/unity-cookbook-2018-ch10-07-load-asset-bundles
 

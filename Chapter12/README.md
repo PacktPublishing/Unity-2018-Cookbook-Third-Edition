@@ -1,14 +1,12 @@
-# unity-cookbook-2018-ch12
-Assets and codes for Chapter 12 - Web client-server games and version control
+# unity-cookbook-2018-ch14
+Assets for cookbook 2018 - chapter 14
 
 The **completed** Unity projects for each example can be found in their own repos as follows:
 
-- https://github.com/dr-matt-smith/unity-cookbook-2018-ch12-01-php-mysql-web-leaderboard
-
-- https://github.com/dr-matt-smith/unity-cookbook-2018-ch12-02-unity-to-webleaderboard-comms
-
-- https://github.com/dr-matt-smith/unity-cookbook-2018-ch12-04-unity-project-github
-
-- https://github.com/dr-matt-smith/unity-cookbook-2018-ch12-05-github-for-unity
-
-- https://github.com/dr-matt-smith/unity-cookbook-2018-ch12-06-prevent-on-unknown-servers
+- https://github.com/dr-matt-smith/unity-cookbook-2018-ch14-01-2D-within-rectangle
+- https://github.com/dr-matt-smith/unity-cookbook-2018-ch14-02-3D-object-limit-movement
+- https://github.com/dr-matt-smith/unity-cookbook-2018-ch14-03-random-spawnpoint
+- https://github.com/dr-matt-smith/unity-cookbook-2018-ch14-04-nearest-spawnpoint
+- https://github.com/dr-matt-smith/unity-cookbook-2018-ch14-05-checkpoint-respawn
+- https://github.com/dr-matt-smith/unity-cookbook-2018-ch14-06-click-apply-force
+- https://github.com/dr-matt-smith/unity-cookbook-2018-ch14-07-fire-projectile

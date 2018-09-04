@@ -1,22 +1,14 @@
-# unity-cookbook-2018-ch11
-Assets for cookbook 2018 - chapter 11
+# unity-cookbook-2018-ch12
+Assets and codes for Chapter 12 - Web client-server games and version control
 
 The **completed** Unity projects for each example can be found in their own repos as follows:
 
-1. https://github.com/dr-matt-smith/unity-cookbook-2018-ch11-01-load-from-public-textasset
+- https://github.com/dr-matt-smith/unity-cookbook-2018-ch12-01-php-mysql-web-leaderboard
 
-1. https://github.com/dr-matt-smith/unity-cookbook-2018-ch11-02-loading-text-using-file-stream
+- https://github.com/dr-matt-smith/unity-cookbook-2018-ch12-02-unity-to-webleaderboard-comms
 
-1. https://github.com/dr-matt-smith/unity-cookbook-2018-ch11-03-saving-text-using-file-stream
+- https://github.com/dr-matt-smith/unity-cookbook-2018-ch12-04-unity-project-github
 
-1. https://github.com/dr-matt-smith/unity-cookbook-2018-ch11-04-loading-parsing-xml-files
+- https://github.com/dr-matt-smith/unity-cookbook-2018-ch12-05-github-for-unity
 
-1. https://github.com/dr-matt-smith/unity-cookbook-2018-ch11-05-creating-xml-with-xmlwriter
- 
-1. https://github.com/dr-matt-smith/unity-cookbook-2018-ch11-06-creating-xml-with-serialization
-
-1. https://github.com/dr-matt-smith/unity-cookbook-2018-ch11-07-creating-XML-file-XMLDocument-Save
-
-1. https://github.com/dr-matt-smith/unity-cookbook-2018-ch11-08-object-to-json
-
-1. https://github.com/dr-matt-smith/unity-cookbook-2018-ch11-09-json-to-object
+- https://github.com/dr-matt-smith/unity-cookbook-2018-ch12-06-prevent-on-unknown-servers

@@ -1,16 +1,22 @@
-# unity-cookbook-2018-ch17
-Assets for cookbook 2018 - chapter 17
+# unity-cookbook-2018-ch11
+Assets for cookbook 2018 - chapter 11
 
 The **completed** Unity projects for each example can be found in their own repos as follows:
 
-- https://github.com/dr-matt-smith/unity-cookbook-2018-ch17-01-diy-states
+1. https://github.com/dr-matt-smith/unity-cookbook-2018-ch11-01-load-from-public-textasset
 
-- https://github.com/dr-matt-smith/unity-cookbook-2018-ch17-02-state-pattern
+1. https://github.com/dr-matt-smith/unity-cookbook-2018-ch11-02-loading-text-using-file-stream
 
-- https://github.com/dr-matt-smith/unity-cookbook-2018-ch17-03-states-scriptable-objects
+1. https://github.com/dr-matt-smith/unity-cookbook-2018-ch11-03-saving-text-using-file-stream
 
-- https://github.com/dr-matt-smith/unity-cookbook-2018-ch17-03b-scriptable-objects-health-feature
+1. https://github.com/dr-matt-smith/unity-cookbook-2018-ch11-04-loading-parsing-xml-files
 
-- https://github.com/dr-matt-smith/unity-cookbook-2018-ch17-04-delegates-and-events
+1. https://github.com/dr-matt-smith/unity-cookbook-2018-ch11-05-creating-xml-with-xmlwriter
+ 
+1. https://github.com/dr-matt-smith/unity-cookbook-2018-ch11-06-creating-xml-with-serialization
 
-- https://github.com/dr-matt-smith/unity-cookbook-2018-ch17-05-mvc
+1. https://github.com/dr-matt-smith/unity-cookbook-2018-ch11-07-creating-XML-file-XMLDocument-Save
+
+1. https://github.com/dr-matt-smith/unity-cookbook-2018-ch11-08-object-to-json
+
+1. https://github.com/dr-matt-smith/unity-cookbook-2018-ch11-09-json-to-object
