@@ -2,7 +2,11 @@
 Unity 2018 Cookbook, Third Edition, published by Packt
 # Book Name
 
+![GitHub Logo](/images/cover.png)
+
+<!--
 <a href="https://www.packtpub.com/game-development/unity-2018-cookbook-third-edition"><img src="/images/cover.png" alt="Unity 2018 Cookbook" height="256px" align="right"></a>
+-->
 
 This is the code repository for [Unity 2018 Cookbook](https://www.packtpub.com/game-development/unity-2018-cookbook-third-edition), published by Packt.
 
