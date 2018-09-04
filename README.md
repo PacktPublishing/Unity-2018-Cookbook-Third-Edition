@@ -1,15 +1,18 @@
-# Unity-2018-Cookbook-Second-Edition
-Unity 2018 Cookbook, Second Edition, published by Packt
+# Unity-2018-Cookbook-Third-Edition
+Unity 2018 Cookbook, Third Edition, published by Packt
 # Book Name
 
-<a href="Packt UTM URL of the Book"><img src="Cover Image URL of the Book" alt="Book Name" height="256px" align="right"></a>
+![GitHub Logo](/images/cover.png)
 
-This is the code repository for [Book Name](Packt UTM URL of the Book), published by Packt.
+<!--
+<a href="https://www.packtpub.com/game-development/unity-2018-cookbook-third-edition"><img src="/images/cover.png" alt="Unity 2018 Cookbook" height="256px" align="right"></a>
+-->
+
+This is the code repository for [Unity 2018 Cookbook](https://www.packtpub.com/game-development/unity-2018-cookbook-third-edition), published by Packt.
 
 **Over 160 recipes to take your 2D and 3D game and virtual reality development to the next level**
 
 ## What is this book about?
-First Paragraph from the Long Description
 With the help of the Unity 2018 Cookbook, you’ll discover how to make the most of the UI system, learn to work with external resources and files, and understand how to animate both 2D and 3D characters and game scene objects using Unity's Mecanim animation toolsets.
 
 This book covers the following exciting features: <First 5 What you'll learn points>
@@ -54,10 +57,10 @@ With the following software and hardware list you can run all code files present
 
 | Chapter  | Software required                   | OS required                        |
 | -------- | ------------------------------------| -----------------------------------|
-| 1-4,6-19 | Unity 2018.1 or later               | Windows, Mac OS X, and Linux (Any) |
+| 1-4,6-19 | Unity 2018.1 or later               | Windows, Mac OS X (Any) |
 | 5        | Unity 2018.1 or lagter +            |                                    |
 |          | an image editing application        |                                    |
-|          | such as GIMP                        | Windows, Mac OS X, and Linux (Any) |
+|          | such as GIMP                        | Windows, Mac OS X (Any) |
 
 
 
@@ -69,7 +72,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 * Unity 2018 Augmented Reality Projects [[Packt]](https://www.packtpub.com/game-development/unity-2018-augmented-reality-projects?utm_source=github&utm_medium=repository&utm_campaign=9781788838764) [[Amazon]](https://www.amazon.com/dp/1788838769)
 
 ## Get to Know the Author
-**Matt Smith**
+[**Matt Smith**](https://github.com/dr-matt-smith)
 is a computing academic at what will soon become the Technological University of Dublin, Ireland.
 
 Matt started computer programming on a brand new ZX80 and submitted 2 games for his computing O-level exam. After nearly 10 years as a full-time student on a succession of scholarships, he gained several degrees in computing, including a PhD in computational musicology.
