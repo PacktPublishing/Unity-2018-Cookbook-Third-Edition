@@ -15,7 +15,7 @@ This is the code repository for [Unity 2018 Cookbook](https://www.packtpub.com/g
 ## What is this book about?
 With the help of the Unity 2018 Cookbook, you’ll discover how to make the most of the UI system, learn to work with external resources and files, and understand how to animate both 2D and 3D characters and game scene objects using Unity's Mecanim animation toolsets.
 
-This book covers the following exciting features: <First 5 What you'll learn points>
+This book covers the following exciting features: 
 * Get creative with Unity’s shaders and learn to build your own shaders with the new Shader Graph tool
 * Create a text and image character dialog with the free Fungus Unity plugin
 * Explore new features integrated into Unity 2018, including TextMesh Pro and ProBuilder
