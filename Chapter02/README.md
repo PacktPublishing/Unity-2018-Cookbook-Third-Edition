@@ -3,12 +3,11 @@ Assets for cookbook 2018 - chapter 2
 
 The **completed** Unity projects for each example can be found in their own repos as follows:
 
-1. https://github.com/dr-matt-smith/unity-cookbook-2018-ch02-02-buttonsToMoveBetweenScenes
+1. https://github.com/dr-matt-smith/unity-cookbook-2018-ch02-01-buttonsToMoveBetweenScenes
 
 2. https://github.com/dr-matt-smith/unity-cookbook-2018-ch02-02-buttonAnimation
 
 3. https://github.com/dr-matt-smith/unity-cookbook-2018-ch02-03-panelDepths
-
 
 4. https://github.com/dr-matt-smith/unity-cookbook-2018-ch02-04-sliderValue
 
