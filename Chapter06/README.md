@@ -1,4 +1,7 @@
 # unity-cookbook-2018-ch06
+
+## Chapter 6: Shader Graphs and Video Players
+
 Assets for the recipes in Chapter 6
 
 The **completed** Unity projects for each example can be found in their own repos as follows:
