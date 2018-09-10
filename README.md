@@ -19,7 +19,7 @@ This book covers the following exciting features:
 
 ## 4 free PDF chapters (chapters 16-19)
 
-Chapters 16-19 wouldn't fit in the print edition, so we're making them available free to download! The PDFs are in the corresponding Github chapter folders, and are a great place to start if you want to explore the style of Unity game recipes you'll find the in book.
+Chapters 16-19 wouldn't fit in the print edition, so we're making them available free to download! The PDFs are in the corresponding Github chapter folders (in a folder named `bonus_chapter_PDF`), and are a great place to start if you want to explore the style of Unity game recipes you'll find the in book.
 
 If you feel this book is for you, get your [copy](https://www.amazon.com/Unity-2018-Cookbook-recipes-development/dp/1788471903) today!
 
