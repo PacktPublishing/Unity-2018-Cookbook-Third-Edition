@@ -17,6 +17,10 @@ This book covers the following exciting features:
 * Master Unity audio, including ducking, reverbing, and matching pitch to animation speeds
 * Work with the new Cinemachine and timeline to intelligently control camera movements
 
+## 4 free PDF chapters (chapters 16-19)
+
+Chapters 16-19 wouldn't fit in the print edition, so we're making them available free to download! The PDFs are in the corresponding Github chapter folders, and are a great place to start if you want to explore the style of Unity game recipes you'll find the in book.
+
 If you feel this book is for you, get your [copy](https://www.amazon.com/Unity-2018-Cookbook-recipes-development/dp/1788471903) today!
 
 <a href="https://www.packtpub.com/?utm_source=github&utm_medium=banner&utm_campaign=GitHubBanner"><img src="https://raw.githubusercontent.com/PacktPublishing/GitHub/master/GitHub.png" 
