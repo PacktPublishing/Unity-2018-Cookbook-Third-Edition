@@ -1,4 +1,7 @@
 # unity-cookbook-2018-ch08
+
+## Chapter 8 - Lights and Effects
+
 Unity Cookbook 2018 - Chapter 8 - Lights and Effects
 
 The **completed** Unity projects for each example can be found in their own repos as follows:
