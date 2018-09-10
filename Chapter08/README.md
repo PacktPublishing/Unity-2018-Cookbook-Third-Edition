@@ -19,5 +19,4 @@ The **completed** Unity projects for each example can be found in their own repo
 
 - https://github.com/dr-matt-smith/unity-cookbook-2018-ch08-08-emission-lamp
 
-
-- https://github.com/dr-matt-smith/unity-cookbook-2018-ch07-09-lightmaps-lightprobes
+- https://github.com/dr-matt-smith/unity-cookbook-2018-ch08-09-lightmaps-lightprobes
