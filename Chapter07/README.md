@@ -7,8 +7,7 @@ The completed Unity projects for each example can be found in their own repos as
 
 - https://github.com/dr-matt-smith/unity-cookbook-2018-ch07-02-picture-in-picture
 
-
-- https://github.com/dr-matt-smith/unity-cookbook-2018-ch06-03-swtich-between-cameras
+- https://github.com/dr-matt-smith/unity-cookbook-2018-ch07-03-switch-between-cameras
 
 - https://github.com/dr-matt-smith/unity-cookbook-2018-ch06-04-saving-camera-output-as-texture
 
