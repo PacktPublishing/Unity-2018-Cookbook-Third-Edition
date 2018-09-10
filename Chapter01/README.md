@@ -1,5 +1,8 @@
 # unity-cookbook-2018-ch01
-Assets for the recipes in Chapter 1
+
+## Chapter 1: Displaying Data with Core UI Elements
+
+Assets for the recipes
 
 The **completed** Unity projects for each example can be found in their own repos as follows:
 
