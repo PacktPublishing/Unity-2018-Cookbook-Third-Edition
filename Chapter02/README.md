@@ -1,5 +1,8 @@
 # unity-cookbook-2018-ch02
-Assets for cookbook 2018 - chapter 2
+
+## Chapter 2: Responding to User Events for Interactive UIs
+
+Assets for the recipes
 
 The **completed** Unity projects for each example can be found in their own repos as follows:
 
