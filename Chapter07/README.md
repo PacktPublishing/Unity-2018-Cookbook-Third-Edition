@@ -1,4 +1,4 @@
-# unity-cookbook-2018-ch06
+# unity-cookbook-2018-ch07
 
 ## Chapter 7 - Using Cameras
 
