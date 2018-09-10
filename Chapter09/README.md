@@ -1,6 +1,6 @@
-# unity-cookbook-2018-ch08
+# unity-cookbook-2018-ch09
 
-Unity Cookbook 2018 - Chapter 8 - 2D Animation
+Unity Cookbook 2018 - Chapter 9 - 2D Animation
 
 The **completed** Unity projects for each example can be found in their own repos as follows:
 
@@ -18,8 +18,5 @@ The **completed** Unity projects for each example can be found in their own repo
 
 - https://github.com/dr-matt-smith/unity-cookbook-2018-ch09-07-tilemap-platformer
 
-
-
-
-- https://github.com/dr-matt-smith/unity-cookbook-2018-ch08-08-2dgamekit
+- https://github.com/dr-matt-smith/unity-cookbook-2018-ch09-08-2dgamekit
 
