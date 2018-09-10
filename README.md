@@ -1,6 +1,6 @@
 # Unity-2018-Cookbook-Third-Edition
 Unity 2018 Cookbook, Third Edition, published by Packt
-# Book Name
+# Unity-2018-Cookbook
 
 <!--
 ![GitHub Logo](/images/cover.png)
