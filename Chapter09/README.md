@@ -12,11 +12,9 @@ The **completed** Unity projects for each example can be found in their own repo
 
 - https://github.com/dr-matt-smith/unity-cookbook-2018-ch09-04-moving-platform
 
+- https://github.com/dr-matt-smith/unity-cookbook-2018-ch09-05-falling-platform-after-stepped-on
 
 
-- https://github.com/dr-matt-smith/unity-cookbook-2018-ch08-04-moving-platform
-
-- https://github.com/dr-matt-smith/unity-cookbook-2018-ch08-05-falling-platform-after-stepped-on
 
 - https://github.com/dr-matt-smith/unity-cookbook-2018-ch08-06-sprite-sheet
 
