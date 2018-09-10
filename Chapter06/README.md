@@ -12,6 +12,6 @@ The **completed** Unity projects for each example can be found in their own repo
 
 - https://github.com/dr-matt-smith/unity-cookbook-2018-ch06-04-simple-shader-graph
 
-- https://github.com/dr-matt-smith/unity-cookbook-2018-ch13-05-glow-scripted-shader-graph
+- https://github.com/dr-matt-smith/unity-cookbook-2018-ch06-05-glow-scripted-shader-graph
 
 - https://github.com/dr-matt-smith/unity-cookbook-2018-ch13-06-code-toggle-color-glow
