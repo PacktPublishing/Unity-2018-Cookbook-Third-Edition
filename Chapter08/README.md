@@ -15,7 +15,7 @@ The **completed** Unity projects for each example can be found in their own repo
 
 - https://github.com/dr-matt-smith/unity-cookbook-2018-ch08-06-procedural-skybox
 
-- https://github.com/dr-matt-smith/unity-cookbook-2018-ch07-07-reflection-probes
+- https://github.com/dr-matt-smith/unity-cookbook-2018-ch08-07-reflection-probes
 
 - https://github.com/dr-matt-smith/unity-cookbook-2018-ch07-08-emission-lamp
 
