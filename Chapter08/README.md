@@ -11,7 +11,7 @@ The **completed** Unity projects for each example can be found in their own repo
 
 - https://github.com/dr-matt-smith/unity-cookbook-2018-ch08-04-projector-laser-target
 
-- https://github.com/dr-matt-smith/unity-cookbook-2018-ch07-05-laser-beam-line-renderer
+- https://github.com/dr-matt-smith/unity-cookbook-2018-ch08-05-laser-beam-line-renderer
 
 - https://github.com/dr-matt-smith/unity-cookbook-2018-ch07-06-procedural-skybox
 
