@@ -1,6 +1,6 @@
 # unity-cookbook-2018-ch12
 
-## Chapter 12: Controlling and Choosing Positions
+## Chapter 12: Controlling and Choosing Positions
 
 Assets and images
 
