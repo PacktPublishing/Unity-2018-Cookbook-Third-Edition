@@ -1,7 +1,7 @@
-# unity-cookbook-2018-ch15
-Chapter 15 - Navigation Meshes and Agents
+# unity-cookbook-2018-ch13
+Chapter 13 - Navigation Meshes and Agents
 
-Assets for cookbook 2018 - chapter 15
+Assets for cookbook 2018 - chapter 13
 
 The completed Unity projects for each example can be found in their own repos as follows:
 
