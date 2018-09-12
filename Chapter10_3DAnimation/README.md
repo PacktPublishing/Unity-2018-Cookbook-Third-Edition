@@ -25,5 +25,5 @@ The **completed** Unity projects for each example can be found in their own repo
 
 - https://github.com/dr-matt-smith/unity-cookbook-2018-ch10-11-3d-gamekit
 
-- https://github.com/dr-matt-smith/unity-cookbook-2018-ch09-12-mixamo-character
+- https://github.com/dr-matt-smith/unity-cookbook-2018-ch10-12-mixamo-character
 
