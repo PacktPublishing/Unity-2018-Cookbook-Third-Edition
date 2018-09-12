@@ -14,4 +14,4 @@ The **completed** Unity projects for each example can be found in their own repo
 
 - https://github.com/dr-matt-smith/unity-cookbook-2018-ch11-05-github-for-unity
 
-- https://github.com/dr-matt-smith/unity-cookbook-2018-ch12-06-prevent-on-unknown-servers
+- https://github.com/dr-matt-smith/unity-cookbook-2018-ch11-06-prevent-on-unknown-servers
