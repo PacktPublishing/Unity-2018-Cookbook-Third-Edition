@@ -17,7 +17,7 @@ The **completed** Unity projects for each example can be found in their own repo
 
 - https://github.com/dr-matt-smith/unity-cookbook-2018-ch10-07-animation-events-to-throw-object
 
-- https://github.com/dr-matt-smith/unity-cookbook-2018-ch09-08-ragdoll-physics
+- https://github.com/dr-matt-smith/unity-cookbook-2018-ch10-08-ragdoll-physics
 
 - https://github.com/dr-matt-smith/unity-cookbook-2018-ch09-09-rotate-torso-to-aim
 
