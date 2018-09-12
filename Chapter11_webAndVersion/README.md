@@ -1,9 +1,12 @@
-# unity-cookbook-2018-ch12
-Assets and codes for Chapter 12 - Web client-server games and version control
+# unity-cookbook-2018-ch11
+
+## Chapter 11 - Web client-server games and version control
+
+Assets and codes.
 
 The **completed** Unity projects for each example can be found in their own repos as follows:
 
-- https://github.com/dr-matt-smith/unity-cookbook-2018-ch12-01-php-mysql-web-leaderboard
+- https://github.com/dr-matt-smith/unity-cookbook-2018-ch11-01-php-mysql-web-leaderboard
 
 - https://github.com/dr-matt-smith/unity-cookbook-2018-ch12-02-unity-to-webleaderboard-comms
 
