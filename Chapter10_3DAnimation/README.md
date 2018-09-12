@@ -11,7 +11,7 @@ The **completed** Unity projects for each example can be found in their own repo
 
 - https://github.com/dr-matt-smith/unity-cookbook-2018-ch10-04-substate-machines
 
-- https://github.com/dr-matt-smith/unity-cookbook-2018-ch09-05-script-control-transform
+- https://github.com/dr-matt-smith/unity-cookbook-2018-ch10-05-script-control-transform
 
 - https://github.com/dr-matt-smith/unity-cookbook-2018-ch09-06-adding-rigid-props
 
