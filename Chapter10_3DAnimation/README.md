@@ -5,7 +5,7 @@ The **completed** Unity projects for each example can be found in their own repo
 
 - https://github.com/dr-matt-smith/unity-cookbook-2018-ch10-01-character-avatar-idle
 
-- https://github.com/dr-matt-smith/unity-cookbook-2018-ch09-02-root-motion-blend-trees
+- https://github.com/dr-matt-smith/unity-cookbook-2018-ch10-02-root-motion-blend-trees
 
 - https://github.com/dr-matt-smith/unity-cookbook-2018-ch09-03-mask-layers-mixing-animations
 
