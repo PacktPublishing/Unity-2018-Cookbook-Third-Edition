@@ -17,7 +17,7 @@ The completed Unity projects for each example can be found in their own repos as
 - https://github.com/dr-matt-smith/unity-cookbook-2018-ch13-05-point-and-click-raycast
 - https://github.com/dr-matt-smith/unity-cookbook-2018-ch13-05b-navmesh-area-mud-higher-cost
 
-- https://github.com/dr-matt-smith/unity-cookbook-2018-ch15-06-follow-waypoints-in-sequence
+- https://github.com/dr-matt-smith/unity-cookbook-2018-ch13-06-follow-waypoints-in-sequence
 - https://github.com/dr-matt-smith/unity-cookbook-2018-ch15-06b-NPC-follow-array-of-waypoints
 - https://github.com/dr-matt-smith/unity-cookbook-2018-ch15-06c-waypoint-class
 
