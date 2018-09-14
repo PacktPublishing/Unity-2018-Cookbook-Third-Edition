@@ -13,4 +13,4 @@ The **completed** Unity projects for each example can be found in their own repo
 
 - https://github.com/dr-matt-smith/unity-cookbook-2018-ch14-04-delegates-and-events
 
-- https://github.com/dr-matt-smith/unity-cookbook-2018-ch17-05-mvc
+- https://github.com/dr-matt-smith/unity-cookbook-2018-ch14-05-mvc
