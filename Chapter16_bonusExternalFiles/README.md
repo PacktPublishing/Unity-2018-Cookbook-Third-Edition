@@ -3,7 +3,7 @@ Assets and codes for Chapter 16 - Working with External Resource Files and Devic
 
 The **completed** Unity projects for each example can be found in their own repos as follows:
 
-- https://github.com/dr-matt-smith/unity-cookbook-2018-ch10-01-default-resources
+- https://github.com/dr-matt-smith/unity-cookbook-2018-ch16-01-default-resources
 
 - https://github.com/dr-matt-smith/unity-cookbook-2018-ch10-02-download-from-internet
 
