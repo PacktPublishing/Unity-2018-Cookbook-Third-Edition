@@ -5,7 +5,7 @@ The **completed** Unity projects for each example can be found in their own repo
 
 - https://github.com/dr-matt-smith/unity-cookbook-2018-ch14-01-diy-states
 
-- https://github.com/dr-matt-smith/unity-cookbook-2018-ch17-02-state-pattern
+- https://github.com/dr-matt-smith/unity-cookbook-2018-ch14-02-state-pattern
 
 - https://github.com/dr-matt-smith/unity-cookbook-2018-ch17-03-states-scriptable-objects
 
