@@ -1,5 +1,5 @@
-# unity-cookbook-2018-ch16
-Assets and codes for Chapter 16 - Virtual Reality and Extra Features
+# unity-cookbook-2018-ch18 - BONUS CHAPTER
+Assets and codes for Chapter 18 - Virtual Reality and Extra Features
 
 The **completed** Unity projects for each example can be found in their own repos as follows:
 
