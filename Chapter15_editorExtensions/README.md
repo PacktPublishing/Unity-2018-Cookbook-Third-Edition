@@ -13,7 +13,7 @@ The completed Unity projects for each example can be found in their own repos as
 
 - https://github.com/dr-matt-smith/unity-cookbook-2018-ch15-05-selected-object
 
-- https://github.com/dr-matt-smith/unity-cookbook-2018-ch18-06-menu-create-100-stars
+- https://github.com/dr-matt-smith/unity-cookbook-2018-ch15-06-menu-create-100-stars
 
 - https://github.com/dr-matt-smith/unity-cookbook-2018-ch18-07-progress-bar
 
