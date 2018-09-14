@@ -1,4 +1,4 @@
-# unity-cookbook-2018-ch19
+# unity-cookbook-2018-ch19 - BONUS CHAPTER
 Assets for cookbook 2018 - chapter 19
 The **completed** Unity projects for each example can be found in their own repos as follows:
 
