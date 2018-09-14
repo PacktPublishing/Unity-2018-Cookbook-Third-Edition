@@ -1,5 +1,5 @@
-# unity-cookbook-2018-ch10
-Assets and codes for Chapter 10 - Working with External Resource Files and Devices
+# unity-cookbook-2018-ch16 - BONUS CHAPTER
+Assets and codes for Chapter 16 - Working with External Resource Files and Devices
 
 The **completed** Unity projects for each example can be found in their own repos as follows:
 
