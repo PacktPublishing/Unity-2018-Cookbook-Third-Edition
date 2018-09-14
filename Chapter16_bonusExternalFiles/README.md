@@ -5,7 +5,7 @@ The **completed** Unity projects for each example can be found in their own repo
 
 - https://github.com/dr-matt-smith/unity-cookbook-2018-ch16-01-default-resources
 
-- https://github.com/dr-matt-smith/unity-cookbook-2018-ch10-02-download-from-internet
+- https://github.com/dr-matt-smith/unity-cookbook-2018-ch16-02-download-from-internet
 
 - https://github.com/dr-matt-smith/unity-cookbook-2018-ch10-03-manually-store-in-resources
 
