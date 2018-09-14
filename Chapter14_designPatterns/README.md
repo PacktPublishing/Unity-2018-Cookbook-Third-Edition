@@ -11,6 +11,6 @@ The **completed** Unity projects for each example can be found in their own repo
 
 - https://github.com/dr-matt-smith/unity-cookbook-2018-ch14-03b-scriptable-objects-health-feature
 
-- https://github.com/dr-matt-smith/unity-cookbook-2018-ch17-04-delegates-and-events
+- https://github.com/dr-matt-smith/unity-cookbook-2018-ch14-04-delegates-and-events
 
 - https://github.com/dr-matt-smith/unity-cookbook-2018-ch17-05-mvc
