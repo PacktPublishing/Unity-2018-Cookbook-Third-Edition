@@ -7,7 +7,7 @@ The completed Unity projects for each example can be found in their own repos as
 
 - https://github.com/dr-matt-smith/unity-cookbook-2018-ch13-01-navmeshagent-seek-destination
 
-- https://github.com/dr-matt-smith/unity-cookbook-2018-ch15-02-follow-flee
+- https://github.com/dr-matt-smith/unity-cookbook-2018-ch13-02-follow-flee
 - https://github.com/dr-matt-smith/unity-cookbook-2018-ch15-02b-flee-from-target
 
 - https://github.com/dr-matt-smith/unity-cookbook-2018-ch15-03-point-and-click-object-mini-game
