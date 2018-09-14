@@ -1,5 +1,5 @@
-# unity-cookbook-2018-ch17
-Assets for cookbook 2018 - chapter 17
+# unity-cookbook-2018-ch14
+Assets for cookbook 2018 - chapter 14
 
 The **completed** Unity projects for each example can be found in their own repos as follows:
 
