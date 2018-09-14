@@ -12,7 +12,7 @@ The completed Unity projects for each example can be found in their own repos as
 
 - https://github.com/dr-matt-smith/unity-cookbook-2018-ch13-03-point-and-click-object-mini-game
 
-- https://github.com/dr-matt-smith/unity-cookbook-2018-ch15-04-point-and-click-tile-mini-game
+- https://github.com/dr-matt-smith/unity-cookbook-2018-ch13-04-point-and-click-tile-mini-game
 
 - https://github.com/dr-matt-smith/unity-cookbook-2018-ch15-05-point-and-click-raycast
 - https://github.com/dr-matt-smith/unity-cookbook-2018-ch15-05b-navmesh-area-mud-higher-cost
