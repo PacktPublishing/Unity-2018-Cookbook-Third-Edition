@@ -13,7 +13,7 @@ The **completed** Unity projects for each example can be found in their own repo
 
 1. https://github.com/dr-matt-smith/unity-cookbook-2018-ch17-05-creating-xml-with-xmlwriter
  
-1. https://github.com/dr-matt-smith/unity-cookbook-2018-ch11-06-creating-xml-with-serialization
+1. https://github.com/dr-matt-smith/unity-cookbook-2018-ch17-06-creating-xml-with-serialization
 
 1. https://github.com/dr-matt-smith/unity-cookbook-2018-ch11-07-creating-XML-file-XMLDocument-Save
 
