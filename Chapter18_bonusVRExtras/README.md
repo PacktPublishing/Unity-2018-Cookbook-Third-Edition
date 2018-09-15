@@ -19,7 +19,7 @@ The **completed** Unity projects for each example can be found in their own repo
 
 1. https://github.com/dr-matt-smith/unity-cookbook-2018-ch18-08-gizmo-selected
 
-1. https://github.com/dr-matt-smith/unity-cookbook-2018-ch16-09-gizmo-grid-snap
+1. https://github.com/dr-matt-smith/unity-cookbook-2018-ch18-09-gizmo-grid-snap
 
 1. https://github.com/dr-matt-smith/unity-cookbook-2018-ch16-10-vr-basic-scene
 
