@@ -7,7 +7,7 @@ The **completed** Unity projects for each example can be found in their own repo
 
 1. https://github.com/dr-matt-smith/unity-cookbook-2018-ch18-02-saving-using-static-properties
 
-1. https://github.com/dr-matt-smith/unity-cookbook-2018-ch16-03-saving-using-playerprefs
+1. https://github.com/dr-matt-smith/unity-cookbook-2018-ch18-03-saving-using-playerprefs
 
 1. https://github.com/dr-matt-smith/unity-cookbook-2018-ch16-04-load-level-data
 
