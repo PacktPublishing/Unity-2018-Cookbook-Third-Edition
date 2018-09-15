@@ -15,7 +15,7 @@ The **completed** Unity projects for each example can be found in their own repo
 
 1. https://github.com/dr-matt-smith/unity-cookbook-2018-ch18-06-pause-game
 
-1. https://github.com/dr-matt-smith/unity-cookbook-2018-ch16-07-slow-motion
+1. https://github.com/dr-matt-smith/unity-cookbook-2018-ch18-07-slow-motion
 
 1. https://github.com/dr-matt-smith/unity-cookbook-2018-ch16-08-gizmo-selected
 
