@@ -19,4 +19,4 @@ The **completed** Unity projects for each example can be found in their own repo
 
 1. https://github.com/dr-matt-smith/unity-cookbook-2018-ch17-08-object-to-json
 
-1. https://github.com/dr-matt-smith/unity-cookbook-2018-ch11-09-json-to-object
+1. https://github.com/dr-matt-smith/unity-cookbook-2018-ch17-09-json-to-object
